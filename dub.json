@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Mark Fisher"
+	],
+	"copyright": "Copyright © 2020, Mark Fisher",
+	"dependencies": {
+		"metad": "~>0.2.3"
+	},
+	"description": "Lambda calculi in D",
+	"license": "MIT",
+	"name": "ycalc"
+}
